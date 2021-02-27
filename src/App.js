@@ -1,5 +1,5 @@
 import logo from './logo.svg';
-import './App.css';
+import './App.sass';
 import React, {Component} from 'react'
 
 class HelloMessage extends React.Component {
